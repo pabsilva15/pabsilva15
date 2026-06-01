@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Augusto Barbosa 👋
+# Olá, eu sou o Pedro Augusto Barbosa Silva 👋
 
 🎓 Estudante em Análise e Desenvolvimento de Sistemas  
 💻 Técnico em Informática em transição para Desenvolvimento de Software  
